@@ -4,9 +4,9 @@
   margin: 1rem auto;
   display: flex;
   justify-content: space-around;
-  box-shadow: 1px 1px 1px grey;
+  box-shadow: 0 3px 3px 2px rgba(200, 200, 200, .5);
   background: white;
-  padding: 0.5rem;
+  padding: 0 0 0 .5rem;
 }
 
 .task p {
@@ -28,7 +28,7 @@
   border: 0;
   border-radius: 0;
   font-size: 1.25rem;
-  margin-top: 0.5rem;
+  height: 100%;
   padding: .3rem .5rem;
 }
 

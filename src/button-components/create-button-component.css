@@ -4,4 +4,5 @@
   background: rgb(33, 255, 33);
   -webkit-appearance: button;
   font-size: 1.25rem;
+  border: 0;
 }
