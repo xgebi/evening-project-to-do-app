@@ -23,4 +23,5 @@
   font-size: 1.25rem;
   padding: calc(.25rem - 1px) .5rem;
   flex: 1 1 57ch;
+  margin: 0;
 }
